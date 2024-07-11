@@ -1,7 +1,10 @@
 <h1 align="center">olá, me chamo Wallingson</h1>
 
 - 🔭 Atualmente sou assistente contábil jr e também desenvolvo automações para as demandas do meu departamento.
-- 🌱 Estou aprendendo a tratar imagens com OCR e regex.
+- 🌱 Estou aprendendo:
+  - Tratar imagens com OCR com regex.
+  - Visão computacional com Opencv
+  - ML com Tensor flow e Keras
 - ☕Que não falte o café de cada bug
 
 <h3 align="left">Languages and Tools:</h3>
