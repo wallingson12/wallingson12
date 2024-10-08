@@ -5,7 +5,7 @@
   - Tratar imagens com OCR com regex.
   - Visão computacional com Opencv
   - ML com Tensor flow e Keras
-- ☕Que não falte o café de cada bug
+- ☕
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img
