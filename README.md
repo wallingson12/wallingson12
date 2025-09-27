@@ -2,9 +2,9 @@
 
 - 🔭 Atualmente sou assistente contábil jr e também desenvolvo automações para as demandas do meu departamento.
 - 🌱 Estou aprendendo:
-  - Tratar imagens com OCR com regex.
+  - Machine learning.
   - Visão computacional com Opencv
-  - ML com Tensor flow e Keras
+  - Data science
 - ☕
 
 <h3 align="left">Languages and Tools:</h3>
