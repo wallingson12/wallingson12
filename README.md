@@ -42,6 +42,7 @@ Assistente Contábil Jr | Automação de Processos | Cientista de dados em forma
 - 🔹 https://github.com/wallingson12/Account_bot
 - 🔹 https://github.com/wallingson12/Data-science_Desafio_Pos
 - 🔹 https://github.com/wallingson12/web_scrapping_top_ligas
+- 🔹 https://github.com/wallingson12/ML_analise_credito
 
 ---
 
