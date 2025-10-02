@@ -38,11 +38,11 @@ Assistente Contábil Jr | Automação de Processos | Cientista de dados em forma
 
 ## 📂 Projetos em destaque
 
-- 🔹 https://github.com/wallingson12/Projeto_aplicado-Data-science-e-Machine-Learning
-- 🔹 https://github.com/wallingson12/Account_bot
-- 🔹https://github.com/wallingson12/Data-science_Desafio_Pos
-- 🔹 https://github.com/wallingson12/web_scrapping_top_ligas
-- 🔹https://github.com/wallingson12/ML_analise_credito
+- 🔹 https://github.com/wallingson12/Projeto_aplicado-Data-science-e-Machine-Learning - Classificador de arquivos
+- 🔹 https://github.com/wallingson12/Account_bot - Sistema de automações para PDF, Excel e XML
+- 🔹https://github.com/wallingson12/Data-science_Desafio_Pos - Análise energia elétrica
+- 🔹https://github.com/wallingson12/web_scrapping_top_ligas - Análise de estatiísticas esportivas
+- 🔹https://github.com/wallingson12/ML_analise_credito - Análise de crédito
 - 🔹https://github.com/wallingson12/An-lise-acidentes-de-tr-nsito/tree/main - Análise acidentes de trânsito
 
 ---
