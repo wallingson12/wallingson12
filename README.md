@@ -49,6 +49,8 @@ Assistente Contábil Jr | Automação de Processos | Cientista de dados em forma
 - 🔹https://github.com/wallingson12/ML_analise_credito
   ## Análise acidentes de trânsito
 - 🔹https://github.com/wallingson12/An-lise-acidentes-de-tr-nsito/tree/main
+## Análise de atributos de jogadores
+- https://github.com/wallingson12/An-lise-atributos-de-jogadores/tree/main
 
 ---
 
