@@ -1,4 +1,4 @@
-# Wallingson Pereira - Assistente Contábil Pl | Automação de Processos | Cientista de Dados em Formação
+# Wallingson Pereira | Automação de Processos | Cientista de Dados em Formação
 
 ## Sobre Mim
 
