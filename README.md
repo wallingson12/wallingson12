@@ -1,4 +1,4 @@
-# Wallingson Pereira - Assistente Contábil Jr | Automação de Processos | Cientista de Dados em Formação
+# Wallingson Pereira - Assistente Contábil Pl | Automação de Processos | Cientista de Dados em Formação
 
 ## Sobre Mim
 
@@ -26,7 +26,7 @@ Tenho experiência prática com as seguintes ferramentas e tecnologias:
 - **Visão computacional e OCR:** OpenCV, pytesseract, pdfplumber  
 - **Automação e scraping:** Selenium, BeautifulSoup, Requests  
 - **Visualização de dados:** Matplotlib, Seaborn, Plotly  
-- **Banco de dados:** PostgreSQL, SQLite, Supabase  
+- **Banco de dados:** PostgreSQL, SQLite, My SQL Server  
 - **Ambientes de desenvolvimento:** Jupyter Notebook, VS Code  
 - **Controle de versão:** Git e GitHub 
 
