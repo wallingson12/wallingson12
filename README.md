@@ -71,7 +71,7 @@ Tenho experiência prática com as seguintes ferramentas e tecnologias:
 
 8. **Classificador de 10 frutas**
    Este projeto implementa um modelo de Deep Learning para classificação de frutas a partir de imagens, usando     transfer learning com MobileNetV2 pré-treinada
-   [Link do repositório]https://github.com/wallingson12/classify_fruits
+   [Link do repositório](https://github.com/wallingson12/classify_fruits)
 ---
 
 ## Contatos
