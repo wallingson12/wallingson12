@@ -69,11 +69,9 @@ Tenho experiência prática com as seguintes ferramentas e tecnologias:
    Utiliza **Pandas, Scikit-Learn, Matplotlib e Seaborn** para análise exploratória, normalização de dados e construção de modelos preditivos.  
    [Link do repositório](https://github.com/wallingson12/An-lise-atributos-de-jogadores/tree/main)
 
-8. **Classificador de 10 frutas**
-   Este projeto implementa um modelo de Deep Learning para classificação de frutas a partir de imagens, usando     transfer learning com MobileNetV2 pré-treinada
-   [Link do repositório]
-   (https://github.com/wallingson12/classify_fruits)
----
+8. **Classificador de 10 Frutas**  
+   Este projeto implementa um modelo de Deep Learning para classificação de frutas a partir de imagens, usando transfer learning com MobileNetV2 pré-treinada.  
+   [Link do repositório](https://github.com/wallingson12/classify_fruits)
 
 ## Contatos
 
