@@ -1,9 +1,5 @@
 # Wallingson Pereira | Automação de Processos | Cientista de Dados em Formação
 
-## Sobre Mim
-
-Atualmente, trabalho como **Assistente Contábil Pl**, e atuo desenvolvendo **automações de processos** para otimizar tarefas repetitivas.
-
 Estou em constante aprendizado, com foco nas áreas de:
 
 - **Machine Learning**: aplicação de modelos de aprendizado de máquina para otimização de processos e tomada de decisões.
@@ -34,42 +30,32 @@ Tenho experiência prática com as seguintes ferramentas e tecnologias:
 
 ## Projetos em Destaque
 
-1. **Classificador de Arquivos**  
-   Desenvolvi um sistema de classificação automática de arquivos utilizando **Machine Learning (Scikit-Learn, Pandas, NumPy)** para organizar grandes volumes de dados de forma eficiente.  
-   O projeto implementa pré-processamento de texto, vetorização (TF-IDF) e classificação supervisionada com Random Forest e Logistic Regression.  
-   [Link do repositório](https://github.com/wallingson12/Projeto_aplicado-Data-science-e-Machine-Learning)
-
-2. **Sistema de Automação para PDF, Excel e XML**  
-   Criação de um **bot contábil inteligente**, capaz de automatizar a extração e manipulação de dados de documentos fiscais (PDF, Excel e XML) utilizando **pytesseract, pdfplumber, OpenCV e pandas**.  
-   O sistema organiza arquivos, processa OCR, consolida planilhas e exporta resultados automaticamente.  
-   [Link do repositório](https://github.com/wallingson12/Account_bot)
-
-3. **Análise de Energia Elétrica**  
+1. **Análise de Energia Elétrica**  
    Projeto de **Data Science** voltado à análise do consumo de energia elétrica, com foco em otimização e redução de custos.  
    Utiliza **pandas, matplotlib, seaborn** e técnicas de análise exploratória (EDA) para gerar visualizações e insights de eficiência energética.  
    [Link do repositório](https://github.com/wallingson12/Data-science_Desafio_Pos)
 
-4. **Análise de Estatísticas Esportivas**  
+2. **Análise de Estatísticas Esportivas**  
    Coleta e análise de dados estatísticos sobre ligas esportivas usando **web scraping (BeautifulSoup, Selenium)** e análise com **pandas e matplotlib**.  
    O projeto gera rankings, métricas de desempenho e comparativos entre clubes e jogadores.  
    [Link do repositório](https://github.com/wallingson12/web_scrapping_top_ligas)
 
-5. **Análise de Crédito**  
+3. **Análise de Crédito**  
    Desenvolvimento de um modelo de classificação para **análise de crédito e previsão de inadimplência**, utilizando **Scikit-Learn, XGBoost e Pandas**.  
    Foram aplicadas técnicas de balanceamento de classes (SMOTE), validação cruzada e métricas de avaliação (AUC, Recall, Precision).  
    [Link do repositório](https://github.com/wallingson12/ML_analise_credito)
 
-6. **Análise de Acidentes de Trânsito**  
+4. **Análise de Acidentes de Trânsito**  
    Projeto de análise de dados públicos para identificar padrões e fatores críticos em acidentes de trânsito.  
    Utiliza **Python, Pandas, Seaborn, Plotly e GeoPandas** para visualização espacial e análise estatística dos incidentes.  
    [Link do repositório](https://github.com/wallingson12/An-lise-acidentes-de-tr-nsito/tree/main)
 
-7. **Análise de Atributos de Jogadores de Futebol**  
+5. **Análise de Atributos de Jogadores de Futebol**  
    Estudo dos atributos dos jogadores para prever o desempenho de times e entender fatores que influenciam o rendimento.  
    Utiliza **Pandas, Scikit-Learn, Matplotlib e Seaborn** para análise exploratória, normalização de dados e construção de modelos preditivos.  
    [Link do repositório](https://github.com/wallingson12/An-lise-atributos-de-jogadores/tree/main)
 
-8. **Classificador de 10 Frutas**  
+6. **Classificador de 10 Frutas**  
    Este projeto implementa um modelo de Deep Learning para classificação de frutas a partir de imagens, usando transfer learning com MobileNetV2 pré-treinada.  
    [Link do repositório](https://github.com/wallingson12/classify_fruits)
 
