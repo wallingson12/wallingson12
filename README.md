@@ -1,8 +1,9 @@
-# Wallingson Pereira | Automação de Processos | Cientista de Dados em Formação
+# Wallingson Pereira
 
-Estou em constante aprendizado, com foco nas áreas de:
+Áreas de interesse:
 
-- **Machine Learning**: aplicação de modelos de aprendizado de máquina para otimização de processos e tomada de decisões.
+- **Automações**: Soluções que resolvem tarefas repetitivas.
+- **Machine Learning**: Modelos de aprendizado de máquina para otimização de processos e tomada de decisões.
 - **Visão Computacional (OpenCV)**: desenvolvimento de soluções para processamento e análise de imagens e documentos digitais.
 - **Data Science**: análise e modelagem de grandes volumes de dados para geração de insights e apoio à tomada de decisão.
 
