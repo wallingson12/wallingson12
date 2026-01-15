@@ -6,8 +6,6 @@ Estou em constante aprendizado, com foco nas áreas de:
 - **Visão Computacional (OpenCV)**: desenvolvimento de soluções para processamento e análise de imagens e documentos digitais.
 - **Data Science**: análise e modelagem de grandes volumes de dados para geração de insights e apoio à tomada de decisão.
 
-Tenho uma forte paixão por tecnologia e estou sempre em busca de novos desafios para aprimorar minhas habilidades e expandir meu conhecimento técnico.
-
 ---
 
 ## Projetos em Destaque
