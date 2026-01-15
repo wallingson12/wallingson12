@@ -10,24 +10,6 @@ Tenho uma forte paixão por tecnologia e estou sempre em busca de novos desafios
 
 ---
 
-## Tecnologias e Ferramentas
-
-Tenho experiência prática com as seguintes ferramentas e tecnologias:
-
-- **Linguagem:** Python  
-- **Manipulação e análise de dados:** Pandas, NumPy  
-- **Aprendizado de máquina:** Scikit-Learn, XGBoost, LightGBM, CatBoost, Random Forest, Gradient Boosting, SVM, KNN, Naive Bayes  
-- **Agrupamento e redução de dimensionalidade:** K-Means, DBSCAN, PCA  
-- **Pré-processamento:** StandardScaler, MinMaxScaler, OneHotEncoder, SMOTE, GridSearchCV, Pipelines  
-- **Visão computacional e OCR:** OpenCV, pytesseract, pdfplumber  
-- **Automação e scraping:** Selenium, BeautifulSoup, Requests  
-- **Visualização de dados:** Matplotlib, Seaborn, Plotly  
-- **Banco de dados:** PostgreSQL, SQLite, My SQL Server  
-- **Ambientes de desenvolvimento:** Jupyter Notebook, VS Code  
-- **Controle de versão:** Git e GitHub 
-
----
-
 ## Projetos em Destaque
 
 1. **Análise de Energia Elétrica**  
